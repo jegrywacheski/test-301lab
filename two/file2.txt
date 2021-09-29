@@ -2,3 +2,4 @@ line 2
 line 4
 line 5
 branch test
+branch test 2
